@@ -1,0 +1,9 @@
+D:\Manz\2014 Fall\CP\Practice\MyTextEditor\bin\Debug\MyTextEditor.exe.config
+D:\Manz\2014 Fall\CP\Practice\MyTextEditor\bin\Debug\MyTextEditor.exe
+D:\Manz\2014 Fall\CP\Practice\MyTextEditor\bin\Debug\MyTextEditor.pdb
+D:\Manz\2014 Fall\CP\Practice\MyTextEditor\obj\Debug\MyTextEditor.csprojResolveAssemblyReference.cache
+D:\Manz\2014 Fall\CP\Practice\MyTextEditor\obj\Debug\MyTextEditor.Form1.resources
+D:\Manz\2014 Fall\CP\Practice\MyTextEditor\obj\Debug\MyTextEditor.Properties.Resources.resources
+D:\Manz\2014 Fall\CP\Practice\MyTextEditor\obj\Debug\MyTextEditor.csproj.GenerateResource.Cache
+D:\Manz\2014 Fall\CP\Practice\MyTextEditor\obj\Debug\MyTextEditor.exe
+D:\Manz\2014 Fall\CP\Practice\MyTextEditor\obj\Debug\MyTextEditor.pdb
