@@ -1,2 +1,2 @@
-# test-editor-csharp
+# text-editor-csharp
 text editor using c#
